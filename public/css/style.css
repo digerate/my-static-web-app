@@ -1,0 +1,25 @@
+body, main {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#statusUpdates p {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 3px solid #007bff;
+    margin-top: 10px;
+}
